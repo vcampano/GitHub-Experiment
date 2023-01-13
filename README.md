@@ -1,2 +1,2 @@
-# MyGitGUIRepository
-A repository to learn SourceTree Git GUI.
+# GitHub Experiment
+This repository is for experimenting on SourceTree Git GUI
